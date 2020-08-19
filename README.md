@@ -9,3 +9,8 @@ In customize, use the following colors for best results:
 * header & footer background: #11492f
 
 Also in customize, set the background image to bg.jpg or bg-alt.jpg.
+
+## Installation
+
+Put the entire folder in your wp-content/themes folder.
+You should now see it in the admin panel.
